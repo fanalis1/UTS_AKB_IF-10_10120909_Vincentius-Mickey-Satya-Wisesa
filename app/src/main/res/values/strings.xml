@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS_AKB_10120909_Vincentius Mickey Satya Wisesa_IF10</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="me">Hello, everyone! My name is Vincentius Mickey Satya Wisesa. I am delighted to have the opportunity to introduce myself to you.</string>
+    <string name="contact">Contact Me</string>
+</resources>
